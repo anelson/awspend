@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TV_RAGE",
+				"TV_RAGE_API_SHOW_INFO_URL"
+			],
+			[
+				"PRO",
+				"RELOAD_PROBABILITY"
+			],
+			[
+				"TV_RA",
+				"TV_RAGE_API_SECONDS_BETWEEN_QUERIES"
+			],
+			[
+				"TV_RAGE_",
+				"TV_RAGE_API_SECONDS_BETWEEN_QUERIES"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"console":
+	{
+		"height": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anelson/Documents/Great Fuckin' Mix.txt",
+		"/Users/anelson/Downloads/EventsStorageTests.cs",
+		"/Users/anelson/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/anelson/projects/whiteboard/app/assets/javascripts/home.js.coffee",
+		"/Users/anelson/projects/whiteboard/app/assets/javascripts/home.js.js",
+		"/etc/hosts",
+		"/Users/anelson/projects/whiteboard/.git/COMMIT_EDITMSG",
+		"/Users/anelson/.zshrc",
+		"/Users/anelson/projects/scrap/html5-canvas-whiteboard/www/js/whiteboard",
+		"/Users/anelson/projects/mediafist/lib/import/tv_rage.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/lib/tasks/import.rake",
+		"/Users/anelson/projects/mediafist_fuckedup/lib/import/tv_rage.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/app/models/tv_rage_show_genre.rb",
+		"/Users/anelson/projects/mediafist/db/migrate/20110709142016_create_tv_rage_show_akas.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/db/migrate/20110708022220_create_tv_rage_show_akas.rb",
+		"/Users/anelson/projects/mediafist/db/migrate/20110709141808_create_tv_rage_show_genres.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/app/models/tv_rage_show.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/db/migrate/20110708015412_create_tv_rage_show_genres.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/db/migrate/20110708023133_create_tv_rage_genres.rb",
+		"/Users/anelson/projects/mediafist_fuckedup/db/migrate/20110708011905_create_tv_rage_shows.rb",
+		"/Volumes/harshaw/Windows/System32/drivers/etc/hosts",
+		"/private/etc/hosts",
+		"/Volumes/media/music/New Great Fuckin' Mix.m3u",
+		"/Volumes/MagicTune(UB)/MagicTune(UB).pkg/Contents/Resources/postinstall",
+		"/Volumes/MagicTune(UB)/MagicTune(UB).pkg/Contents/Resources/MagicTune(UB).info",
+		"/Volumes/MagicTune(UB)/MagicTune(UB).pkg/Contents/Resources/MagicTune(UB).bom",
+		"/Volumes/MagicTune(UB)/MagicTune(UB).pkg/Contents/PkgInfo",
+		"/Volumes/MagicTune(UB)/UnInstall",
+		"/Volumes/warez/APPLE.iWORK.09.READ.NFO-MAGNiTUDE/magnitude.nfo"
+	],
+	"find":
+	{
+		"height": 0
+	},
+	"find_in_files":
+	{
+		"height": 0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zoomFactor",
+			"word",
+			"wrap",
+			"show.",
+			"find_or_create",
+			"find_or_",
+			"\n      show_info.xpath(\"akas/aka\").each do |aka|\n        show.tv_rage_show_akas.find_or_create_by_country_and_name({:country => aka['country'], :name => aka.inner_text}, \n          :country => aka['country'], :attr => aka['attr'], :name => aka.inner_text).save\n      end",
+			"with_node_at_xpath(\"",
+			" => x",
+			"name",
+			"{color:}",
+			"{color}",
+			"file://NEMES/media/music/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.",
+			"with_node_at_xpath(show_info, \"",
+			" xwith_node_at_xpath(show_info, \"",
+			" x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/Users/anelson/projects/awspend"
+		]
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"index",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"trsg",
+				"app/models/tv_rage_show_genre.rb"
+			],
+			[
+				"trss",
+				"app/models/tv_rage_show_season.rb"
+			],
+			[
+				"ctrse",
+				"db/migrate/20110710190949_create_tv_rage_show_episodes.rb"
+			],
+			[
+				"ctrss",
+				"db/migrate/20110710190435_create_tv_rage_show_seasons.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"tv",
+				"lib/import/tv_rage.rb"
+			],
+			[
+				"trn",
+				"app/models/tv_rage_network.rb"
+			],
+			[
+				"tvr",
+				"lib/import/tv_rage.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"trshowgen",
+				"app/models/tv_rage_show_genre.rb"
+			],
+			[
+				"tvshow",
+				"app/models/tv_rage_show.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"ctrshow",
+				"db/migrate/20110709141519_create_tv_rage_shows.rb"
+			],
+			[
+				"trst",
+				"app/models/tv_rage_status.rb"
+			],
+			[
+				"trc",
+				"app/models/tv_rage_classification.rb"
+			],
+			[
+				"trg",
+				"app/models/tv_rage_genre.rb"
+			],
+			[
+				"ctrsa",
+				"db/migrate/20110709142016_create_tv_rage_show_akas.rb"
+			],
+			[
+				"modtr",
+				"app/models/tv_rage_show.rb"
+			]
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362,
+	"status_bar_visible": true
+}

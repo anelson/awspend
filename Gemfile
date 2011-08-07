@@ -14,6 +14,8 @@ gem 'uglifier'
 
 gem 'jquery-rails'
 
+gem 'mechanize'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
